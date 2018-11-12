@@ -2,31 +2,31 @@
   {
     "person": {
       "name": "Dani",
-      "age": "17-00"
+      "time": "17-00"
     }
   },
   {
     "person": {
       "name": "Ray",
-      "age": "17-30"
+      "time": "17-30"
     }
   }
   {
     "person": {
       "name": "Grisha",
-      "age": "18-00"
+      "time": "18-00"
     }
   }
   {
     "person": {
       "name": "Igor",
-      "age": "18-30"
+      "time": "18-30"
     }
   }
   {
     "person": {
       "name": "Svetlana",
-      "age": "19-00"
+      "time": "19-00"
     }
   }
 ]
