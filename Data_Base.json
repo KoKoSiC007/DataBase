@@ -1,18 +1,22 @@
-{
-  
+[
+  {
       "name": "Dani",
       "time": "17-00"
-  
+  },
+  {
       "name": "Ray",
       "time": "17-30"
-  
+  },
+  {
       "name": "Grisha",
       "time": "18-00"
-
+  },
+  {
       "name": "Igor",
       "time": "18-30"
- 
+  },
+  {
       "name": "Svetlana",
       "time": "19-00"
-  
-}
+  }
+]
