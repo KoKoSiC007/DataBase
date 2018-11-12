@@ -1,32 +1,22 @@
-[
+{
   {
-    "person": {
       "name": "Dani",
       "time": "17-00"
-    }
   },
   {
-    "person": {
       "name": "Ray",
       "time": "17-30"
-    }
   }
   {
-    "person": {
       "name": "Grisha",
       "time": "18-00"
-    }
   }
   {
-    "person": {
       "name": "Igor",
       "time": "18-30"
-    }
   }
   {
-    "person": {
       "name": "Svetlana",
       "time": "19-00"
-    }
   }
-]
+}
